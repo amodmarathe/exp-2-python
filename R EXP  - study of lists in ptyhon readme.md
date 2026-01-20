@@ -22,3 +22,6 @@ Indexing in Python lists allows you to access individual elements or a range of 
  use append to add some more items
  use remove command to remove 2 items
  then print the final grocery list
+
+
+conclusion - in this experiment we learnt about lists in python and various commands such as append,extend ,remove , max,min,sort,indexing 
